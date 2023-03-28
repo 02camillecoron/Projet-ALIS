@@ -20,3 +20,5 @@ Le reste des pages ont été générées avec la génération du HTML depuis le 
 Utiliser uvicorn main:app --reload pour lancer le projet 
 
 Se référencer au rapport final pour plus de précision
+
+Lien vers la vidéo de démonstration: https://clipchamp.com/watch/cdgK4CkbjrG
