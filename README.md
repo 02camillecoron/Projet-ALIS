@@ -16,3 +16,5 @@ Une interface a été mise en place avec trois pages principales:
 - Page de création de note 
 
 Le reste des pages ont été générées avec la génération du HTML depuis le logiciel Axure. 
+
+Utiliser uvicorn main:app --reload pour lancer le projet 
