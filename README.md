@@ -18,3 +18,5 @@ Une interface a été mise en place avec trois pages principales:
 Le reste des pages ont été générées avec la génération du HTML depuis le logiciel Axure. 
 
 Utiliser uvicorn main:app --reload pour lancer le projet 
+
+Se référencer au rapport final pour plus de précision
